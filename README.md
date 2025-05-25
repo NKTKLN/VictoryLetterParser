@@ -35,8 +35,8 @@
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/NKTKLN/hackathon-parser-module
-cd hackathon-parser-module
+git clone https://github.com/NKTKLN/VictoryLetterParser
+cd VictoryLetterParser 
 ```
 
 ### 2. Установите зависимости
